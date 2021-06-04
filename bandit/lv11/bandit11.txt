@@ -20,3 +20,5 @@ Helpful Reading Material
 
    Donate!
    Help!?
+
+Answer: $ base64 -d data.txt|awk '{print $4}'>pw.md
