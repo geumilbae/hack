@@ -20,3 +20,5 @@ Helpful Reading Material
 
    Donate!
    Help!?
+
+Answer: $ cat lv12_/data.txt|tr 'A-Za-z' 'N-ZA-Mn-za-m'|awk '{print $4}'>lv12_/pw.md
